@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dibya Ranjan Sahu
-- 👀 I’m interested in Machine Learning,Data Analysis,Web developement
-- 🌱 I’m currently learning Web Development
+
 
 
 <!---
